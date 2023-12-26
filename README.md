@@ -16,6 +16,8 @@ Key aspects explored:
 - Calculating phase locking value (PLV) to quantify phase synchronization between EEG channels 
 - Comparing PLV responses to olfactory stimulation between Alzheimer's patients and healthy controls
 
+  ![](results/detailbrain.png)
+
 ### Repository Contents
 
 The repository contains the following key files:
