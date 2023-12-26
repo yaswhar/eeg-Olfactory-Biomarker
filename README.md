@@ -30,14 +30,7 @@ The repository contains the following key files:
 
 ### Running the Analysis
 
-To rerun the analysis:
-
-1. Ensure MATLAB is installed
-2. Open `code/run_analysis.m` script  
-3. Set input and output paths as needed 
-4. Run script to execute preprocessing and PLV computation on sample data
-5. Output results will be saved to `results/` folder
-
+The codes are available in the `code/` folder. MATLAB and EEG-Lab should be installed to run the codes and view the stimulations. 
 
 ## References
 
