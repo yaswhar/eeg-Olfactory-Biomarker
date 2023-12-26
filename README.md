@@ -1,4 +1,4 @@
-# Signals & Systems Course Project
+# Signals & Systems Course Project -- Spring 2023
 
 ## Analysis of Phase Locking Value during Olfactory Stimulation as a Biomarker for Alzheimer's Disease in EEG Signals
 
