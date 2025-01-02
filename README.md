@@ -2,7 +2,7 @@
 
 ## Analysis of Phase Locking Value during Olfactory Stimulation as a Biomarker for Alzheimer's Disease in EEG Signals
 
-This repository contains my course project for the Signals & Systems course instructed by [Dr. Hamid K. Aghajan](https://explorecourses.stanford.edu/instructor/aghajan) at Sharif University of Technology.
+This repository contains my course project for the Signals & Systems course instructed by [Prof. Hamid K. Aghajan](https://explorecourses.stanford.edu/instructor/aghajan) at Sharif University of Technology.
 
 ### Project Overview
 
